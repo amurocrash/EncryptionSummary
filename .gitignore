@@ -1,0 +1,5 @@
+# ignore files
+.settings/
+bin/
+*.classpath
+*.project
